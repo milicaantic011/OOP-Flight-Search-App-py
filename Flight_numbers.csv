@@ -1,0 +1,34 @@
+﻿flight_number,carrier,aircraft_type,aircraft_capacity,departure_airport,arrival_airport,departure_time,arrival_time,delay_time,gate,num_passengers,ticket_price,damaged_baggage,damage_bagg_count,no_show_passengers,economy_light,economy_standard,economy_comfort,business
+JU796,AirSerbia,ATR-72,72,Belgrade,Skopje,0:30,1:40,0:03,C10A,35,€ 100.00,€ 200.00,1,1,10,15,10,0
+JU536,AirSerbia,Airbus 319,133,Belgrade,Athens,0:40,2:05,0:12,C08,112,€ 150.00,€ 200.00,0,0,7,42,57,6
+JU130,AirSerbia,Airbus 320,177,Belgrade,Moscow,5:25,8:00,0:55,C11,170,€ 300.00,€ 200.00,2,3,10,41,87,12
+W64071,WizzAir,Airbus 321,220,Belgrade,Eidenhoven,6:00,8:30,0:02,A05,123,€ 80.00,€ 50.00,1,0,82,35,6,0
+LH1415,Lufthansa,Airbus 319,144,Belgrade,Frankfurt,6:15,8:20,0:05,A06,114,€ 200.00,€ 300.00,0,0,23,45,40,6
+OS726,Austrian,Airbus 319,144,Belgrade,Vienna,6:50,7:45,0:06,C06,70,€ 150.00,€ 300.00,1,2,5,16,46,3
+W64091,WizzAir,Airbus 321,200,Belgrade,Dortmund,7:30,9:50,0:15,A08,80,€ 100.00,€ 50.00,1,2,57,10,13,0
+LY5196,EI AI,Boeing 737,150,Belgrade,Tel Aviv,8:40,11:10,0:30,A06,144,€ 300.00,€ 50.00,3,4,12,40,78,10
+QR323,Qatar Airways,Boeing 737,150,Belgrade,Doha,8:50,14:00,2:30,A08,126,€ 350.00,€ 200.00,2,3,28,23,68,7
+40101,Air Montenegro,Embraer 195,110,Belgrade,Podgorica,9:00,9:45,0:11,A04,40,€ 100.00,€ 200.00,1,2,12,11,17,0
+TK1082,Turkish,Boeing 737,150,Belgrade,Istanbul,9:00,10:05,0:02,A05,120,€ 150.00,€ 200.00,0,3,15,22,78,5
+LX1413,Swiss,Airbus 320,177,Belgrade,Zurich,9:40,10:30,2:50,A07,160,€ 150.00,€ 200.00,1,0,6,53,89,12
+JU210,AirSerbia,Airbus 319,144,Belgrade,London Heathrow,10:15,12:50,0:21,C10A,144,€ 300.00,€ 200.00,0,5,8,36,88,12
+JU246,AirSerbia,Airbus 319,244,Belgrade,Paris CDG,10:20,12:20,0:04,A03,127,€ 250.00,€ 200.00,2,8,7,62,78,9
+W64105,WizzAir,Airbus 321,200,Belgrade,Memmingem,10:20,11:25,0:17,A08,156,€ 90.00,€ 50.00,1,5,67,15,89,0
+OS722,Austrian,Airbus 319,144,Belgrade,Vienna,11:10,12:15,0:20,A06,98,€ 120.00,€ 200.00,0,4,18,19,57,4
+HU7979,Hainan Airlines,Airbus 330,256,Belgrade,Beijing,11:50,9:40,3:00,C14,232,€ 700.00,€ 200.00,3,5,7,43,167,15
+JU422,AirSerbia,Embraer 195,110,Belgrade,Istanbul,12:15,13:25,0:19,C05,80,€ 120.00,€ 200.00,2,6,15,20,45,0
+W64009,WizzAir,Airbus 321,200,Belgrade,Belin Brandeburg,13:00,14:30,0:33,A07,160,€ 150.00,€ 200.00,1,3,27,58,67,8
+JU102,AirSerbia,ATR-72,72,Belgrade,Bucharest,13:10,14:20,0:03,C10A,45,€ 100.00,€ 200.00,2,4,15,5,25,0
+JU500,AirSerbia,Airbus 330,256,Belgrade,New York,13:20,19:30,5:00,C14,232,€ 900.00,€ 200.00,3,8,7,57,156,19
+JU986,AirSerbia,Airbus 330,256,Belgrade,Shangai,13:30,1:30,6:00,C14,167,€ 700.00,€ 200.00,3,4,10,63,78,16
+JU132,AirSerbia,Airbus 319,144,Belgrade,Moscow,14:15,16:45,0:45,C12,144,€ 300.00,€ 200.00,1,10,32,44,56,12
+W64119,WizzAir,Airbus 321,200,Belgrade,Friedrichhafen,15:55,17:40,0:10,A08,150,€ 120.00,€ 50.00,1,6,43,34,73,0
+JU604,AirSerbia,ATR-72,72,Belgrade,Zagreb,16:55,18:05,0:03,C10C,52,€ 120.00,€ 200.00,2,3,15,10,27,0
+LO574,LOT,Embraer 195,110,Belgrade,Warsav,17:15,18:35,0:07,A07,76,€ 150.00,€ 200.00,2,2,15,25,36,0
+WF508,Wideroe,Boeing 737,150,Belgrade,Ankara,18:00,19:10,0:25,A06,132,€ 140.00,€ 200.00,0,7,12,45,67,8
+JU144,AirSerbia,ATR-72,72,Belgrade,Budapest,20:15,21:05,0:03,C10C,36,€ 100.00,€ 200.00,2,0,5,12,19,0
+W64021,WizzAir,Airbus 321,144,Belgrade,Malta,20:30,22:30,0:10,C06,87,€ 150.00,€ 200.00,0,4,34,24,29,0
+W64027,WizzAir,Airbus 321,200,Belgrade,Larnaca,20:45,22:55,0:06,C08,127,€ 200.00,€ 200.00,2,0,35,36,56,0
+FZ1750,FlyDubai,Boeing 737,150,Belgrade,Dubai,22:25,3:40,0:10,C06,123,€ 200.00,€ 100.00,1,0,23,33,67,0
+JU486,AirSerbia,Airbus 319,144,Belgrade,Larnaca,23:55,2:22,0:02,C10A,78,€ 250.00,€ 200.00,3,6,13,25,34,6
+CZ668,China SA,Boeing 787,250,Belgrade,Guangzhou,0:30,14:00,3:00,C14,180,€ 650.00,€ 200.00,4,5,15,20,127,18
