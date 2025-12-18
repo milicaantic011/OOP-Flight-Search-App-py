@@ -30,4 +30,8 @@ python3 flight_app_pro.py
 [Add screenshot here]
 
 ## Author
-Milica
+Milica Antic
+
+## Licence
+
+"MIT License - Free to use, modify, and distribute."
