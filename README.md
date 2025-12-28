@@ -14,7 +14,7 @@ A Python GUI application for searching and managing flight information.
 - **Composition**: Flight contains Ticket objects
 
 ## Requirements
-- Python 3.x
+- Python 3.11
 - tkinter (included with Python)
 
 ## How to Run
